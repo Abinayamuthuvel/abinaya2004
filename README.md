@@ -42,7 +42,6 @@ This project demonstrates the integration of SvelteKit, Blockly, and pyFirmata t
 - [SvelteKit](https://kit.svelte.dev/)
 - [Blockly](https://developers.google.com/blockly)
 - [Python](https://www.python.org/)
-- [pyFirmata](https://pypi.org/project/pyFirmata/)
 - Arduino IDE (to upload the Firmata firmware)
 
 ### Hardware:
